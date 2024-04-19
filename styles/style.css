@@ -396,9 +396,10 @@
     padding: 20px 80px;
     border-radius: 15px;
     border: 1px solid #d9d0d4;
+    transition: 0.3s;
 }
 .contact-section button:hover{
-  border: 1px solid var(--pink);
-  transition: 0.3s;
-  cursor: pointer;
+    border: 1px solid var(--pink);
+    transition: 0.3s;
+    cursor: pointer;
 }    
